@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>Jumbo Template for Bootstrap</title>
 
 
     <!-- Custom styles for this template -->
