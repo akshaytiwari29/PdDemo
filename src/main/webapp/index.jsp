@@ -51,7 +51,11 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
+<<<<<<< HEAD
         <h1>Hello Akshay</h1>
+=======
+        <h1>Hello Akshay</h1>
+>>>>>>> branch 'master' of https://github.com/akshaytiwari29/PdDemo.git
         <p>This is from dev branch. </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
